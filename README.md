@@ -1,4 +1,3 @@
-Certainly! Here is a revised section of the README without specific performance metrics and with a focus on realistic capabilities:
 
 ---
 
