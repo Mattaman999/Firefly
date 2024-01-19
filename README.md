@@ -33,9 +33,6 @@ For a comprehensive overview of the Firefly application in action, watch our vid
 [Firefly Overview Video](https://drive.google.com/file/d/1IOAvxmiFp7mES0Rf8_wqkLmSr3s0t8oe/view?usp=sharing)
 
 
-Replace the placeholder sections like `[Installation instructions]`, `[Usage instructions]`, `[Roadmap details]`, and `[Contribution guidelines]` with the appropriate content from your project. This addition will guide users to a visual representation of how Firefly works, potentially increasing understanding and engagement with your project.
-
-
 ## License
 
 The project is distributed under the MIT License. See `LICENSE` for more information.
