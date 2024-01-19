@@ -4,7 +4,7 @@
 
 ## About The Project
 
-Firefly is an award-winning safety application recognized in the Congressional App Challenge. This sophisticated application leverages modern sensor technology and real-time data processing to provide a comprehensive fire detection and alert system.
+Firefly is safety application recognized in the Congressional App Challenge. This sophisticated application leverages modern sensor technology and real-time data processing to provide a comprehensive fire detection and alert system.
 
 ### Built With
 
