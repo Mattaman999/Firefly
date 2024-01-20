@@ -44,5 +44,5 @@ Project Link: [https://github.com/Satvikmatta18/Firefly](https://github.com/Satv
 ## Acknowledgments
 
 - Congressional App Challenge organizers for the opportunity to showcase Firefly.
-- The dedicated contributors and community for their ongoing support.
+
 
